@@ -9,3 +9,5 @@
 //git fetch origin main
 //git diff HEAD origin/main
 //git merge origin/main
+
+//git commit -am "Test"
