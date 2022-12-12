@@ -1,0 +1,2 @@
+git fetch dev/wsiQE
+git merge dev/wsiQE
