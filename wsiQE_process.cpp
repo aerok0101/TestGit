@@ -9,3 +9,6 @@
 //git fetch origin main
 //git diff HEAD origin/main
 //git merge origin/main
+
+//git commit -am "Test"
+//git push origin dev/wsiQE
