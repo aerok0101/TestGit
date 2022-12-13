@@ -12,3 +12,5 @@
 
 //git commit -am "Test"
 //git push origin dev/wsiQE
+
+//git checkout dev/wsiQE
