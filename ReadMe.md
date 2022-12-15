@@ -16,4 +16,3 @@
 * git push origin dev/wsiQE
 
 * git checkout dev/wsiQE
-* git revert HEAD
